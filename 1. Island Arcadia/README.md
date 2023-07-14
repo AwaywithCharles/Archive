@@ -1,9 +1,9 @@
 # Island Arcadia
 
 Built in Unity 3d for VR Chat.
-Created mystery via hidden features through activating game objects.
-  - was up to the player to find them, once the first few were found it spread via word of mouth making an influx of player wanting to join the world to find more.
-  - All objets were coded in C#
+Created mystery via hidden features by activating game objects.
+  - was up to the player to find them, once the first few were found, word of mouth, causing an influx of player wanting to join the world to find more.
+  - All objects were coded in C#
   - Interacting with the hidden objects would change and morph the world along with the ambiance in various ways.
       - Lighting was very dark, could enable different tones and colors of lighting
       - light would vary for PC and VR users so made different settings for the users to dial it to how they like.
